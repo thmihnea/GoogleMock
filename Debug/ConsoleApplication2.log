@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(133,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(159,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(167,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mihnea\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(169,27): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\Mihnea\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
